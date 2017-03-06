@@ -4,7 +4,8 @@ https://mariakopo.github.io/Mini_ex04/
 Name of my work: "Making patterns w. black and white" 
 
 
-![Screenshot]
+![Screenshot](https://github.com/mariakopo/Mini_ex04/blob/gh-pages/Sk%C3%A6rmbillede%202017-03-06%20kl.%2011.18.01.png)
+
 
 You are very welcome to try out my program. You can use the mouse function to create some different patterns and by using space and other buttons on your computer you can change the background. 
 I have created the dots by using the for loop function() thats follows the mouse on the screen on the x- and the y-axis. You can therefore control the shapes and the sizes with your mouse and create different patterns. 
