@@ -1,5 +1,5 @@
 # Mini_ex04
-
+https://mariakopo.github.io/Mini_ex04/
 Name of my work: "Making patterns w. black and white" 
 
 
